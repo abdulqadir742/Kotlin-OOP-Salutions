@@ -1,6 +1,3 @@
-import java.util.Scanner
-import kotlin.random.Random.Default.nextLong
-
 fun main() {
     println("Please Enter Your First Value")
     val input1 = readLine()
